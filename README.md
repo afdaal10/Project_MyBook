@@ -1,9 +1,9 @@
 #  MyBook – UI/UX Documentation  
 ## Phase I
 
-###  Tampilan komponen aplikasi 
+###  Tampilan MYBOOK 
 
-![Daftar Buku](your-image.png)
+![my book](mybook.png)
 
 ---
 
