@@ -19,9 +19,39 @@
 
 ---
 
-###  4. Tampilan Detail Buku
+###  4. Tampilan Setelah Tambah Buku
+
+![daftar buku](after_daftarbuku.png)
+
+---
+
+###  5. Tampilan Detail Buku
 
 ![detail buku](detailbuku.png)
+
+---
+
+###  6. Tampilan Edit Buku
+
+![edit buku](editbuku.png)
+
+---
+
+###  7. Tampilan Hapus Buku
+
+![hapus buku](hapusbuku.png)
+
+---
+
+###  8. Tampilan Konfirmasi Hapus
+
+![konfirmasi hapus](konfirmasihapus.png)
+
+---
+
+###  9. Tampilan Aplikasi MY Book
+
+![tampilan aplikasi](tampilanaplikasi.png)
 
 ---
 
