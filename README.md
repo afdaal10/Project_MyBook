@@ -51,7 +51,7 @@
 
 ###  9. Tampilan Aplikasi MY Book
 
-![tampilan aplikasi](tampilanaplikasi.png)
+![tampilan aplikasi](tampilan_aplikasi.png)
 
 ---
 
