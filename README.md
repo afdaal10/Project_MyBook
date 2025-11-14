@@ -21,7 +21,7 @@
 
 ###  4. Tampilan Setelah Tambah Buku
 
-![daftar buku](after_daftarbuku.png)
+![daftar buku](after_tambahbuku.png)
 
 ---
 
@@ -54,4 +54,6 @@
 ![tampilan aplikasi](tampilanaplikasi.png)
 
 ---
+
+
 
